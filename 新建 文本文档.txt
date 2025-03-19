@@ -1,0 +1,5 @@
+Hi Olga!
+I have somen questions.
+
+1) In Figure 4: Line 5, is the "H" a hash function?
+2) In Figure 4: Line 6,  "val" is from "HMAC".   "HMAC" can not give us a random value, so  why  use "HMAC" but not a hash function?
